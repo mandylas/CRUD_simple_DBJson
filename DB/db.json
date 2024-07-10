@@ -1,0 +1,29 @@
+{
+    "Personas": [
+        {
+            "cedula": "18688323",
+            "nombre": "Jonatan",
+            "apellido": "Sanchez"
+        },
+        {
+            "cedula": "2856698",
+            "nombre": "Armando",
+            "apellido": "Paredez"
+        },
+        {
+            "cedula": "27866654",
+            "nombre": "Esteban",
+            "apellido": "Quito"
+        },
+        {
+            "cedula": "28236564",
+            "nombre": "Rosa",
+            "apellido": "Meltrozo"
+        },
+        {
+            "cedula": "11237237",
+            "nombre": "Amelia",
+            "apellido": "Torres"
+        }
+    ]
+}
